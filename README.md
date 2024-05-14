@@ -1,2 +1,2 @@
 # Techplement
-Build a REST-API using Node, Express ,and Mongoose .
+Build a REST-API using JavaScript, Node, Express ,and Mongoose.
